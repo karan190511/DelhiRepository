@@ -1,0 +1,1 @@
+File created on Github to check functionality of git pull command
